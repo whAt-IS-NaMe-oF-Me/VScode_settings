@@ -1,2 +1,3 @@
 # VScode_settings
-VScode
+
+一个公开的VScode的配置
